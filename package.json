@@ -1,0 +1,17 @@
+{
+  "name": "love-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lovecalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sreenivas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pokemon": "^2.0.2",
+    "superheroes": "^3.0.0"
+  }
+}
